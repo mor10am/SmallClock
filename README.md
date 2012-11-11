@@ -1,0 +1,21 @@
+SmallClock v39.02
+=================
+
+ About The Program:
+	SmallClock is a small program that shows the time of day in a tiny
+	borderless window.
+	It can be started from shell as well as Workbench (WBStartup).
+
+	SmallClock can be stopped in three ways:
+		1) Pressing 'remove' in Exchange
+		2) Starting it a second time
+		3) Sending it a CTRL_C
+
+	SmallClock takes the following parameters:
+		CX_PRIORITY=(-128 -> 127)
+		XPOS=(0 -> x)
+		YPOS=(0 -> y)
+		FRONTPEN=(0 -> 255)
+		BACKPEN=(0 -> 255)
+
+ Enjoy!
